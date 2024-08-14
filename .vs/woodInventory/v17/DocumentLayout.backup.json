@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\spell\\Documents\\woodcraft\\woodInventory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A28A3B02-134E-458F-B47A-3C92178A31BB}|woodinventory.client\\woodinventory.client.esproj|c:\\users\\spell\\documents\\woodcraft\\woodinventory\\woodinventory.client\\src\\components\\authorizeview.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A28A3B02-134E-458F-B47A-3C92178A31BB}|woodinventory.client\\woodinventory.client.esproj|solutionrelative:woodinventory.client\\src\\components\\authorizeview.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9218A20D-C3B4-4B0E-B747-95A77C5E1BD9}|woodInventory.Server\\woodInventory.Server.csproj|c:\\users\\spell\\documents\\woodcraft\\woodinventory\\woodinventory.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9218A20D-C3B4-4B0E-B747-95A77C5E1BD9}|woodInventory.Server\\woodInventory.Server.csproj|solutionrelative:woodinventory.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A28A3B02-134E-458F-B47A-3C92178A31BB}|woodinventory.client\\woodinventory.client.esproj|c:\\users\\spell\\documents\\woodcraft\\woodinventory\\woodinventory.client\\src\\pages\\home.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A28A3B02-134E-458F-B47A-3C92178A31BB}|woodinventory.client\\woodinventory.client.esproj|solutionrelative:woodinventory.client\\src\\pages\\home.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A28A3B02-134E-458F-B47A-3C92178A31BB}|woodinventory.client\\woodinventory.client.esproj|c:\\users\\spell\\documents\\woodcraft\\woodinventory\\woodinventory.client\\src\\pages\\login.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A28A3B02-134E-458F-B47A-3C92178A31BB}|woodinventory.client\\woodinventory.client.esproj|solutionrelative:woodinventory.client\\src\\pages\\login.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A28A3B02-134E-458F-B47A-3C92178A31BB}|woodinventory.client\\woodinventory.client.esproj|c:\\users\\spell\\documents\\woodcraft\\woodinventory\\woodinventory.client\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A28A3B02-134E-458F-B47A-3C92178A31BB}|woodinventory.client\\woodinventory.client.esproj|solutionrelative:woodinventory.client\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A28A3B02-134E-458F-B47A-3C92178A31BB}|woodinventory.client\\woodinventory.client.esproj|c:\\users\\spell\\documents\\woodcraft\\woodinventory\\woodinventory.client\\.vscode\\launch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A28A3B02-134E-458F-B47A-3C92178A31BB}|woodinventory.client\\woodinventory.client.esproj|solutionrelative:woodinventory.client\\.vscode\\launch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A28A3B02-134E-458F-B47A-3C92178A31BB}|woodinventory.client\\woodinventory.client.esproj|c:\\users\\spell\\documents\\woodcraft\\woodinventory\\woodinventory.client\\vite.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A28A3B02-134E-458F-B47A-3C92178A31BB}|woodinventory.client\\woodinventory.client.esproj|solutionrelative:woodinventory.client\\vite.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9218A20D-C3B4-4B0E-B747-95A77C5E1BD9}|woodInventory.Server\\woodInventory.Server.csproj|c:\\users\\spell\\documents\\woodcraft\\woodinventory\\woodinventory.server\\woodinventory.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9218A20D-C3B4-4B0E-B747-95A77C5E1BD9}|woodInventory.Server\\woodInventory.Server.csproj|solutionrelative:woodinventory.server\\woodinventory.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\spell\\Documents\\woodcraft\\woodInventory\\woodInventory.Server\\Migrations\\20240814022853_db1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:woodInventory.Server\\Migrations\\20240814022853_db1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A28A3B02-134E-458F-B47A-3C92178A31BB}|woodinventory.client\\woodinventory.client.esproj|c:\\users\\spell\\documents\\woodcraft\\woodinventory\\woodinventory.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A28A3B02-134E-458F-B47A-3C92178A31BB}|woodinventory.client\\woodinventory.client.esproj|solutionrelative:woodinventory.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A28A3B02-134E-458F-B47A-3C92178A31BB}|woodinventory.client\\woodinventory.client.esproj|c:\\users\\spell\\documents\\woodcraft\\woodinventory\\woodinventory.client\\src\\pages\\register.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A28A3B02-134E-458F-B47A-3C92178A31BB}|woodinventory.client\\woodinventory.client.esproj|solutionrelative:woodinventory.client\\src\\pages\\register.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A28A3B02-134E-458F-B47A-3C92178A31BB}|woodinventory.client\\woodinventory.client.esproj|c:\\users\\spell\\documents\\woodcraft\\woodinventory\\woodinventory.client\\src\\components\\weatherforecast.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A28A3B02-134E-458F-B47A-3C92178A31BB}|woodinventory.client\\woodinventory.client.esproj|solutionrelative:woodinventory.client\\src\\components\\weatherforecast.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A28A3B02-134E-458F-B47A-3C92178A31BB}|woodinventory.client\\woodinventory.client.esproj|c:\\users\\spell\\documents\\woodcraft\\woodinventory\\woodinventory.client\\src\\components\\logoutlink.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A28A3B02-134E-458F-B47A-3C92178A31BB}|woodinventory.client\\woodinventory.client.esproj|solutionrelative:woodinventory.client\\src\\components\\logoutlink.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9218A20D-C3B4-4B0E-B747-95A77C5E1BD9}|woodInventory.Server\\woodInventory.Server.csproj|c:\\users\\spell\\documents\\woodcraft\\woodinventory\\woodinventory.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9218A20D-C3B4-4B0E-B747-95A77C5E1BD9}|woodInventory.Server\\woodInventory.Server.csproj|solutionrelative:woodinventory.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9218A20D-C3B4-4B0E-B747-95A77C5E1BD9}|woodInventory.Server\\woodInventory.Server.csproj|c:\\users\\spell\\documents\\woodcraft\\woodinventory\\woodinventory.server\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9218A20D-C3B4-4B0E-B747-95A77C5E1BD9}|woodInventory.Server\\woodInventory.Server.csproj|solutionrelative:woodinventory.server\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9218A20D-C3B4-4B0E-B747-95A77C5E1BD9}|woodInventory.Server\\woodInventory.Server.csproj|c:\\users\\spell\\documents\\woodcraft\\woodinventory\\woodinventory.server\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9218A20D-C3B4-4B0E-B747-95A77C5E1BD9}|woodInventory.Server\\woodInventory.Server.csproj|solutionrelative:woodinventory.server\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.css",
+              "DocumentMoniker": "C:\\Users\\spell\\Documents\\woodcraft\\woodInventory\\woodinventory.client\\src\\App.css",
+              "RelativeDocumentMoniker": "woodinventory.client\\src\\App.css",
+              "ToolTip": "C:\\Users\\spell\\Documents\\woodcraft\\woodInventory\\woodinventory.client\\src\\App.css",
+              "RelativeToolTip": "woodinventory.client\\src\\App.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-14T02:24:50.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Register.tsx",
+              "DocumentMoniker": "C:\\Users\\spell\\Documents\\woodcraft\\woodInventory\\woodinventory.client\\src\\Pages\\Register.tsx",
+              "RelativeDocumentMoniker": "woodinventory.client\\src\\Pages\\Register.tsx",
+              "ToolTip": "C:\\Users\\spell\\Documents\\woodcraft\\woodInventory\\woodinventory.client\\src\\Pages\\Register.tsx",
+              "RelativeToolTip": "woodinventory.client\\src\\Pages\\Register.tsx",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAQwHcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-14T02:24:04.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.tsx",
+              "DocumentMoniker": "C:\\Users\\spell\\Documents\\woodcraft\\woodInventory\\woodinventory.client\\src\\Pages\\Login.tsx",
+              "RelativeDocumentMoniker": "woodinventory.client\\src\\Pages\\Login.tsx",
+              "ToolTip": "C:\\Users\\spell\\Documents\\woodcraft\\woodInventory\\woodinventory.client\\src\\Pages\\Login.tsx",
+              "RelativeToolTip": "woodinventory.client\\src\\Pages\\Login.tsx",
+              "ViewState": "AgIAABYAAAAAAAAAAADwv3cAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-14T02:23:36.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.tsx",
+              "DocumentMoniker": "C:\\Users\\spell\\Documents\\woodcraft\\woodInventory\\woodinventory.client\\src\\App.tsx",
+              "RelativeDocumentMoniker": "woodinventory.client\\src\\App.tsx",
+              "ToolTip": "C:\\Users\\spell\\Documents\\woodcraft\\woodInventory\\woodinventory.client\\src\\App.tsx",
+              "RelativeToolTip": "woodinventory.client\\src\\App.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-14T02:23:07.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthorizeView.tsx",
+              "DocumentMoniker": "C:\\Users\\spell\\Documents\\woodcraft\\woodInventory\\woodinventory.client\\src\\Components\\AuthorizeView.tsx",
+              "RelativeDocumentMoniker": "woodinventory.client\\src\\Components\\AuthorizeView.tsx",
+              "ToolTip": "C:\\Users\\spell\\Documents\\woodcraft\\woodInventory\\woodinventory.client\\src\\Components\\AuthorizeView.tsx",
+              "RelativeToolTip": "woodinventory.client\\src\\Components\\AuthorizeView.tsx",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwEMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-14T02:20:57.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LogoutLink.tsx",
+              "DocumentMoniker": "C:\\Users\\spell\\Documents\\woodcraft\\woodInventory\\woodinventory.client\\src\\Components\\LogoutLink.tsx",
+              "RelativeDocumentMoniker": "woodinventory.client\\src\\Components\\LogoutLink.tsx",
+              "ToolTip": "C:\\Users\\spell\\Documents\\woodcraft\\woodInventory\\woodinventory.client\\src\\Components\\LogoutLink.tsx",
+              "RelativeToolTip": "woodinventory.client\\src\\Components\\LogoutLink.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-14T02:20:46.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WeatherForecast.tsx",
+              "DocumentMoniker": "C:\\Users\\spell\\Documents\\woodcraft\\woodInventory\\woodinventory.client\\src\\Components\\WeatherForecast.tsx",
+              "RelativeDocumentMoniker": "woodinventory.client\\src\\Components\\WeatherForecast.tsx",
+              "ToolTip": "C:\\Users\\spell\\Documents\\woodcraft\\woodInventory\\woodinventory.client\\src\\Components\\WeatherForecast.tsx",
+              "RelativeToolTip": "woodinventory.client\\src\\Components\\WeatherForecast.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-14T02:20:38.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.tsx",
+              "DocumentMoniker": "C:\\Users\\spell\\Documents\\woodcraft\\woodInventory\\woodinventory.client\\src\\Pages\\Home.tsx",
+              "RelativeDocumentMoniker": "woodinventory.client\\src\\Pages\\Home.tsx",
+              "ToolTip": "C:\\Users\\spell\\Documents\\woodcraft\\woodInventory\\woodinventory.client\\src\\Pages\\Home.tsx",
+              "RelativeToolTip": "woodinventory.client\\src\\Pages\\Home.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-14T02:19:03.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "vite.config.ts",
+              "DocumentMoniker": "C:\\Users\\spell\\Documents\\woodcraft\\woodInventory\\woodinventory.client\\vite.config.ts",
+              "RelativeDocumentMoniker": "woodinventory.client\\vite.config.ts",
+              "ToolTip": "C:\\Users\\spell\\Documents\\woodcraft\\woodInventory\\woodinventory.client\\vite.config.ts",
+              "RelativeToolTip": "woodinventory.client\\vite.config.ts",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-14T02:12:56.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "woodInventory.Server",
+              "DocumentMoniker": "C:\\Users\\spell\\Documents\\woodcraft\\woodInventory\\woodInventory.Server\\woodInventory.Server.csproj",
+              "RelativeDocumentMoniker": "woodInventory.Server\\woodInventory.Server.csproj",
+              "ToolTip": "C:\\Users\\spell\\Documents\\woodcraft\\woodInventory\\woodInventory.Server\\woodInventory.Server.csproj",
+              "RelativeToolTip": "woodInventory.Server\\woodInventory.Server.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-14T02:01:50.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\spell\\Documents\\woodcraft\\woodInventory\\woodInventory.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "woodInventory.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\spell\\Documents\\woodcraft\\woodInventory\\woodInventory.Server\\appsettings.json",
+              "RelativeToolTip": "woodInventory.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-14T02:06:51.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\spell\\Documents\\woodcraft\\woodInventory\\woodInventory.Server\\Program.cs",
+              "RelativeDocumentMoniker": "woodInventory.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\spell\\Documents\\woodcraft\\woodInventory\\woodInventory.Server\\Program.cs",
+              "RelativeToolTip": "woodInventory.Server\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwDQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T02:05:29.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240814022853_db1.cs",
+              "DocumentMoniker": "C:\\Users\\spell\\Documents\\woodcraft\\woodInventory\\woodInventory.Server\\Migrations\\20240814022853_db1.cs",
+              "RelativeDocumentMoniker": "woodInventory.Server\\Migrations\\20240814022853_db1.cs",
+              "ToolTip": "C:\\Users\\spell\\Documents\\woodcraft\\woodInventory\\woodInventory.Server\\Migrations\\20240814022853_db1.cs",
+              "RelativeToolTip": "woodInventory.Server\\Migrations\\20240814022853_db1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T02:28:54.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launch.json",
+              "DocumentMoniker": "C:\\Users\\spell\\Documents\\woodcraft\\woodInventory\\woodinventory.client\\.vscode\\launch.json",
+              "RelativeDocumentMoniker": "woodinventory.client\\.vscode\\launch.json",
+              "ToolTip": "C:\\Users\\spell\\Documents\\woodcraft\\woodInventory\\woodinventory.client\\.vscode\\launch.json",
+              "RelativeToolTip": "woodinventory.client\\.vscode\\launch.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-14T02:38:27.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\spell\\Documents\\woodcraft\\woodInventory\\woodInventory.Server\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "woodInventory.Server\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\spell\\Documents\\woodcraft\\woodInventory\\woodInventory.Server\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "woodInventory.Server\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T02:04:23.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\spell\\Documents\\woodcraft\\woodInventory\\woodInventory.Server\\Data\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "woodInventory.Server\\Data\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\spell\\Documents\\woodcraft\\woodInventory\\woodInventory.Server\\Data\\ApplicationUser.cs",
+              "RelativeToolTip": "woodInventory.Server\\Data\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T02:03:47.582Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
